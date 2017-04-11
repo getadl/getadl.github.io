@@ -1,0 +1,206 @@
+body,input,table,textarea,select,a
+{
+	font:100 14px/17px 'Omnes', 'proxima-nova-1', Helvetica, Arial, sans-serif;
+	text-rendering:optimizelegibility;
+	-webkit-font-smoothing:antialiased;
+	padding:0;
+	margin:0;
+	color:#444;
+}
+
+body
+{
+	background:#fff url('/media/bg/8x8_cleardots3.gif') repeat;
+	text-align:center;
+}
+
+ul:not(.bullets)
+{
+	list-style:none;
+	padding:0;
+	margin:auto;
+}
+
+h1
+{
+	font:400 21px/26px 'Omnes', 'proxima-nova-1', Helvetica, Arial, sans-serif;
+	margin:0;
+}
+
+ul.main ul.elements
+{
+	padding-top:20px;
+	width:950px;
+}
+
+ul.main li.icon
+{
+	width: 80px;
+	height: 80px;
+	float: left;
+	margin: 0 10px 0 -5px;
+}
+
+
+ul.main li.title .title
+{
+	background:transparent;
+	font-size:36px;
+	font-weight:600;
+	line-height:50px;
+	width:865px;
+	border:none;
+	border-bottom:2px dotted #888;
+	transition: background .1s ease-in-out;
+	-moz-transition: background .1s ease-in-out;
+	-webkit-transition: background .1s ease-in-out;
+	padding-left:5px;
+	margin:-5px 0 0 -5px;
+	text-align:left;
+}
+
+ul.main li.title input:focus
+{
+	background:rgba(0,187,255,.25);
+}
+
+ul.main li.title .title:hover
+{
+	transition: background .25s ease-in-out;
+	-moz-transition: background .25s ease-in-out;
+	-webkit-transition: background .25s ease-in-out;
+}
+
+ul.main li.title .title.small
+{
+	font-size:24px;
+	line-height:30px;
+	height:30px;
+	width:725px;
+	margin-top:-5px;
+}
+
+ul.main li.title input.title.small
+{
+	line-height:34px;
+	height:35px;
+}
+
+ul.main li.title div.subtitle
+{
+	font-size:14px;
+	font-weight:400;
+	padding:0;
+	margin:0;
+	line-height:16px;
+	text-align:left;
+}
+
+div.button,
+li.button,
+ul.button,
+div.actionbutton,
+li.actionbutton
+{
+	width:125px;
+	height:30px;
+	background:#00ADEE;
+	font-size:14px;
+	font-weight:500;
+	line-height:28px;
+	text-align:center;
+	margin-top:23px;
+	cursor:pointer;
+	transition: background .1s ease-in-out;
+	-moz-transition: background .1s ease-in-out;
+	-webkit-transition: background .1s ease-in-out;
+	border:2px solid #1381d6;
+	color:#fff;
+}
+
+li.close,
+div.close
+{
+	float:right;
+	width:20px;
+	height:20px;
+	cursor:pointer;
+}
+
+.fontawesome
+{
+    font-family:'FontAwesome';
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    content:"";
+}
+
+/* start sdks block */
+ul.main li.sdks
+{
+	height:350px;
+	text-align:center;
+}
+
+li.sdks ul.sdks
+{
+	display:inline-block;
+}
+
+li.sdks ul.sdks li
+{
+	margin:0 5px;
+	float:left;
+	cursor:pointer;
+}
+
+ul.main li.sdks ul.elements
+{
+	height:85px;
+}
+
+ul.main li.sdks
+{
+	border-top:1px dotted #aaa;
+	border-bottom:1px dotted #aaa;
+	margin-top:20px;
+	padding:0 0 30px;
+	background:#efefef;
+	height:auto;
+}
+
+ul.main li.sdks ul.sdks
+{
+	margin-left:10px;
+}
+
+ul.main li.sdks li.title
+{
+	margin-top:10px;
+}
+
+.saveaccount
+{
+	background: #f15523 !important;
+	padding:15px 30px 22px;
+	text-align:left;
+	font-weight:600;
+	font-size:18px;
+	line-height:28px;
+	color:#fff;
+	cursor:pointer;
+}
+
+.saveaccount:hover
+{
+	background: #00A577 !important;
+/* 	color:#444; */
+}
+
+.saveaccount .smalltext
+{
+	line-height:14px;
+	font-size:12px;
+	font-weight:500;
+}

@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes_thin-webfont.eot');
+    src: url('/fonts/omnes_thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes_thin-webfont.woff') format('woff'),
+         url('/fonts/omnes_thin-webfont.ttf') format('truetype'),
+         url('/fonts/omnes_thin-webfont.svg#OmnesThin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes_extralight-webfont.eot');
+    src: url('/fonts/omnes_extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes_extralight-webfont.woff') format('woff'),
+         url('/fonts/omnes_extralight-webfont.ttf') format('truetype'),
+         url('/fonts/omnes_extralight-webfont.svg#OmnesExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes_light-webfont.eot');
+    src: url('/fonts/omnes_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes_light-webfont.woff') format('woff'),
+         url('/fonts/omnes_light-webfont.ttf') format('truetype'),
+         url('/fonts/omnes_light-webfont.svg#OmnesLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes-webfont.eot');
+    src: url('/fonts/omnes-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes-webfont.woff') format('woff'),
+         url('/fonts/omnes-webfont.ttf') format('truetype'),
+         url('/fonts/omnes-webfont.svg#OmnesRegular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes_medium-webfont.eot');
+    src: url('/fonts/omnes_medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes_medium-webfont.woff') format('woff'),
+         url('/fonts/omnes_medium-webfont.ttf') format('truetype'),
+         url('/fonts/omnes_medium-webfont.svg#OmnesMedium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes_semibold-webfont.eot');
+    src: url('/fonts/omnes_semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes_semibold-webfont.woff') format('woff'),
+         url('/fonts/omnes_semibold-webfont.ttf') format('truetype'),
+         url('/fonts/omnes_semibold-webfont.svg#OmnesSemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes_bold-webfont.eot');
+    src: url('/fonts/omnes_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes_bold-webfont.woff') format('woff'),
+         url('/fonts/omnes_bold-webfont.ttf') format('truetype'),
+         url('/fonts/omnes_bold-webfont.svg#OmnesBold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* 
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes_bold-webfont.eot');
+    src: url('/fonts/omnes_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes_bold-webfont.woff') format('woff'),
+         url('/fonts/omnes_bold-webfont.ttf') format('truetype'),
+         url('/fonts/omnes_bold-webfont.svg#OmnesBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+ */
+
+@font-face {
+    font-family: 'Omnes';
+    src: url('/fonts/omnes_black-webfont.eot');
+    src: url('/fonts/omnes_black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/omnes_black-webfont.woff') format('woff'),
+         url('/fonts/omnes_black-webfont.ttf') format('truetype'),
+         url('/fonts/omnes_black-webfont.svg#OmnesBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
